@@ -11,37 +11,37 @@ function ProductList({ onHomeClick }) {
             plants: [
                 {
                     name: "Snake Plant",
-                    image: "https://cdn.pixabay.com/photo/2021/01/22/06/04/snake-plant-5939187_1280.jpg",
+                    image: "https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto,w_1400/v1736227584/vendor/2523/catalog/product/2/0/202506132552_file_m5ljwr7fc1316ma",
                     description: "Produces oxygen at night, improving air quality.",
                     cost: "$15"
                 },
                 {
                     name: "Spider Plant",
-                    image: "https://cdn.pixabay.com/photo/2018/07/11/06/47/chlorophytum-3530413_1280.jpg",
+                    image: "https://hips.hearstapps.com/hmg-prod/images/beautiful-spider-plant-chlorophytum-isolated-in-a-royalty-free-image-1727206150.jpg?crop=0.668xw:1.00xh;0,0&resize=1120:*",
                     description: "Filters formaldehyde and xylene from the air.",
                     cost: "$12"
                 },
                 {
                     name: "Peace Lily",
-                    image: "https://cdn.pixabay.com/photo/2019/06/12/14/14/peace-lilies-4269365_1280.jpg",
+                    image: "https://seedfella.com/cdn/shop/files/peace-lily-seeds-for-planting-elegant-indoor-greenery-plant-412_0eafe676-dc26-41c6-9d55-19ad4116cb9d.webp?v=1736404089",
                     description: "Removes mold spores and purifies the air.",
                     cost: "$18"
                 },
                 {
                     name: "Boston Fern",
-                    image: "https://cdn.pixabay.com/photo/2020/04/30/19/52/boston-fern-5114414_1280.jpg",
+                    image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR632tqXMVq4qPpnoGvGTnrIGTBycwPMPQQlqiiK-P7JjuULGVWRUiKYQe-fxCU3pGgvtzsWaFjK9X2W19eMQ35MQd3Vw0TyQexv6_nlw",
                     description: "Adds humidity to the air and removes toxins.",
                     cost: "$20"
                 },
                 {
                     name: "Rubber Plant",
-                    image: "https://cdn.pixabay.com/photo/2020/02/15/11/49/flower-4850729_1280.jpg",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvCiwEXGrB_C7p4KGs81eZIYTvYsEexO2ZUi3wPbAMM6dz0o3sL3M-QaUhwc7gxlFtaGMjmvKnPUW3BuqjBHtAiA",
                     description: "Easy to care for and effective at removing toxins.",
                     cost: "$17"
                 },
                 {
                     name: "Aloe Vera",
-                    image: "https://cdn.pixabay.com/photo/2018/04/02/07/42/leaf-3283175_1280.jpg",
+                    image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsrb-EX65ebih73UzPB_dgeUHURdKuzeU0_I4F3lw4Wv1OWyNviXdrOAlGfmdJmoHNZy1NdIXz4aLcrgFVq1jbBw",
                     description: "Purifies the air and has healing properties for skin.",
                     cost: "$14"
                 }
@@ -64,25 +64,25 @@ function ProductList({ onHomeClick }) {
                 },
                 {
                     name: "Rosemary",
-                    image: "https://cdn.pixabay.com/photo/2019/10/11/07/12/rosemary-4541241_1280.jpg",
+                    image: "https://i5.walmartimages.com/seo/Rosemary-Plants-Live-for-Planting-Rosemary-Live-Plant-Indoor-Outdoor-4-Inch-Pot_ad42af26-5dc2-455b-a101-5901f7ea27bd.54d5755bae0dce2eef5158e15a936c97.png?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
                     description: "Invigorating scent, often used in cooking.",
                     cost: "$15"
                 },
                 {
                     name: "Mint",
-                    image: "https://cdn.pixabay.com/photo/2016/01/07/18/16/mint-1126282_1280.jpg",
+                    image: "https://assets.epicurious.com/photos/5763132cff66dde1456dfed0/master/pass/Mint_Leaves.jpg",
                     description: "Refreshing aroma, used in teas and cooking.",
                     cost: "$12"
                 },
                 {
                     name: "Lemon Balm",
-                    image: "https://cdn.pixabay.com/photo/2019/09/16/07/41/balm-4480134_1280.jpg",
+                    image: "https://bonnieplants.com/cdn/shop/articles/BONNIE_lemon-balm_iStock-184975706-1800px_ded081e4-7cbc-4dad-834d-8cdaeb2794fe.jpg?v=1642541739&width=1000",
                     description: "Citrusy scent, relieves stress and promotes sleep.",
                     cost: "$14"
                 },
                 {
                     name: "Hyacinth",
-                    image: "https://cdn.pixabay.com/photo/2019/04/07/20/20/hyacinth-4110726_1280.jpg",
+                    image: "https://www.dutchgrown.com/cdn/shop/products/Hyacinth_Blue_Jacket-4.jpg?v=1677680493",
                     description: "Hyacinth is a beautiful flowering plant known for its fragrant.",
                     cost: "$22"
                 }
@@ -93,25 +93,25 @@ function ProductList({ onHomeClick }) {
             plants: [
                 {
                     name: "oregano",
-                    image: "https://cdn.pixabay.com/photo/2015/05/30/21/20/oregano-790702_1280.jpg",
+                    image: "https://cdn.shopify.com/s/files/1/2016/2681/files/Oregano_Main_Image_condensed.jpg?v=1641340058",
                     description: "The oregano plants contains compounds that can deter certain insects.",
                     cost: "$10"
                 },
                 {
                     name: "Marigold",
-                    image: "https://cdn.pixabay.com/photo/2022/02/22/05/45/marigold-7028063_1280.jpg",
+                    image: "https://www.parkseed.com/media/catalog/product/5/1/51377.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=740&width=740&canvas=740:740",
                     description: "Natural insect repellent, also adds color to the garden.",
                     cost: "$8"
                 },
                 {
                     name: "Geraniums",
-                    image: "https://cdn.pixabay.com/photo/2012/04/26/21/51/flowerpot-43270_1280.jpg",
+                    image: "https://www.gardenia.net/wp-content/uploads/2023/04/1RYX8vvagYKzgzRPdUndx4PFdPK0FKt7RIqFQOc8-780x520.webp",
                     description: "Known for their insect-repelling properties while adding a pleasant scent.",
                     cost: "$20"
                 },
                 {
                     name: "Basil",
-                    image: "https://cdn.pixabay.com/photo/2016/07/24/20/48/tulsi-1539181_1280.jpg",
+                    image: "https://www.marthastewart.com/thmb/w1f38EKcAYkVTe2JjqIccB7qOeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ms-how-to-grow-basil-69c2254cf454424fbc55992cc8155dbe.jpg",
                     description: "Repels flies and mosquitoes, also used in cooking.",
                     cost: "$9"
                 },
@@ -123,7 +123,7 @@ function ProductList({ onHomeClick }) {
                 },
                 {
                     name: "Catnip",
-                    image: "https://cdn.pixabay.com/photo/2015/07/02/21/55/cat-829681_1280.jpg",
+                    image: "https://s7d2.scene7.com/is/image/PetSmart/5042783",
                     description: "Repels mosquitoes and attracts cats.",
                     cost: "$13"
                 }
@@ -134,37 +134,37 @@ function ProductList({ onHomeClick }) {
             plants: [
                 {
                     name: "Aloe Vera",
-                    image: "https://cdn.pixabay.com/photo/2018/04/02/07/42/leaf-3283175_1280.jpg",
+                    image: "https://www.ikea.com/us/en/images/products/aloe-vera-potted-plant-aloe__1368841_pe957973_s5.jpg",
                     description: "Soothing gel used for skin ailments.",
                     cost: "$14"
                 },
                 {
                     name: "Echinacea",
-                    image: "https://cdn.pixabay.com/photo/2014/12/05/03/53/echinacea-557477_1280.jpg",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAcBAtYGqmHtrTPKbX_8--ZPp_q99SPKBo1_OYMDQXIm-k8Q:https://www.northcreeknurseries.com/_ccLib/image/plants/DETA-161.jpg&s",
                     description: "Boosts immune system, helps fight colds.",
                     cost: "$16"
                 },
                 {
                     name: "Peppermint",
-                    image: "https://cdn.pixabay.com/photo/2017/07/12/12/23/peppermint-2496773_1280.jpg",
+                    image: "https://files.nccih.nih.gov/peppermint-steven-foster-square.jpg",
                     description: "Relieves digestive issues and headaches.",
                     cost: "$13"
                 },
                 {
                     name: "Lemon Balm",
-                    image: "https://cdn.pixabay.com/photo/2019/09/16/07/41/balm-4480134_1280.jpg",
+                    image: "https://bonnieplants.com/cdn/shop/articles/BONNIE_lemon-balm_iStock-184975706-1800px_ded081e4-7cbc-4dad-834d-8cdaeb2794fe.jpg?v=1642541739&width=1000",
                     description: "Calms nerves and promotes relaxation.",
                     cost: "$14"
                 },
                 {
                     name: "Chamomile",
-                    image: "https://cdn.pixabay.com/photo/2016/08/19/19/48/flowers-1606041_1280.jpg",
+                    image: "https://i.etsystatic.com/24605184/r/il/644ab8/4295619554/il_1140xN.4295619554_l2ne.jpg",
                     description: "Soothes anxiety and promotes sleep.",
                     cost: "$15"
                 },
                 {
                     name: "Calendula",
-                    image: "https://cdn.pixabay.com/photo/2019/07/15/18/28/flowers-4340127_1280.jpg",
+                    image: "https://i5.walmartimages.com/seo/Mr-Fothergill-s-Calendula-Oh-Sow-Simple-Flower-Seed_5f1aca37-4559-4435-93c8-1336a30987d9.b09a60fd95740caf97a1c29d695e2edf.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
                     description: "Heals wounds and soothes skin irritations.",
                     cost: "$12"
                 }
@@ -181,31 +181,31 @@ function ProductList({ onHomeClick }) {
                 },
                 {
                     name: "Pothos",
-                    image: "https://cdn.pixabay.com/photo/2018/11/15/10/32/plants-3816945_1280.jpg",
+                    image: "https://i5.walmartimages.com/seo/Pothos-Golden-Live-Plant-Indoor-Different-Houseplants-3-Pot-Real-House-Plant-Living-Room-Office-Desk-Bathroom-Epipremnum-Aureum-Devil-s-Ivy_c71a22ed-cc66-4bca-815b-3123053db364.1ee390427b9d6aed06d2767fbbbb56fe.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
                     description: "Tolerates neglect and can grow in various conditions.",
                     cost: "$10"
                 },
                 {
                     name: "Snake Plant",
-                    image: "https://cdn.pixabay.com/photo/2021/01/22/06/04/snake-plant-5939187_1280.jpg",
+                    image: "https://i5.walmartimages.com/seo/13-Artificial-Snake-Plant-Potted-Faux-Sansevieria-Trifasciata-Plants-Tropical-Fake-Plants-in-White-Pots-Outdoor-Home-Decor_58019da6-88c6-44d8-8703-738e4c1d1738.e3c8467ef1be45efffa805dd470cd6fe.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
                     description: "Needs infrequent watering and is resilient to most pests.",
                     cost: "$15"
                 },
                 {
                     name: "Cast Iron Plant",
-                    image: "https://cdn.pixabay.com/photo/2017/02/16/18/04/cast-iron-plant-2072008_1280.jpg",
+                    image: "https://cdn.avasflowers.net/img/prod_img/avasflowers-potted-cast-iron-plant.png",
                     description: "Hardy plant that tolerates low light and neglect.",
                     cost: "$20"
                 },
                 {
                     name: "Succulents",
-                    image: "https://cdn.pixabay.com/photo/2016/11/21/16/05/cacti-1846147_1280.jpg",
+                    image: "https://i5.walmartimages.com/asr/61c7611e-53b2-48cc-9f4e-08d30acc86fe.340b54b7b17b1256e5435d2aaa1e4bcc.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
                     description: "Drought-tolerant plants with unique shapes and colors.",
                     cost: "$18"
                 },
                 {
                     name: "Aglaonema",
-                    image: "https://cdn.pixabay.com/photo/2014/10/10/04/27/aglaonema-482915_1280.jpg",
+                    image: "https://i5.walmartimages.com/seo/Beauty-Aglaonema-Evergreen-4-25-Grow-Pot-Easy-Plant-Filtered-Sun-Element-by-Altman-Plants_af8073b3-3878-4d3d-a2b7-5ef4b98fd976.29d993fba334a8aa59c9e6cbcfb4b9cc.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
                     description: "Requires minimal care and adds color to indoor spaces.",
                     cost: "$22"
                 }
@@ -257,7 +257,7 @@ function ProductList({ onHomeClick }) {
             <div className="navbar" style={styleObj}>
                 <div className="tag">
                     <div className="luxury">
-                        <img src="https://cdn.pixabay.com/photo/2020/08/05/13/12/eco-5465432_1280.png" alt="" />
+                        <img src="https://t3.ftcdn.net/jpg/02/58/62/36/360_F_258623607_a31m59gQNxn3lhw7OuuAlJwmqeeEQ90q.jpg" alt="" />
                         <a href="/" onClick={(e) => handleHomeClick(e)}>
                             <div>
                                 <h3 style={{ color: 'white' }}>Paradise Nursery</h3>
@@ -274,8 +274,34 @@ function ProductList({ onHomeClick }) {
             </div>
             {!showCart ? (
                 <div className="product-grid">
-
-
+                    {plantsArray.map((category, index) => ( // Loop through each category in plantsArray
+  <div key={index}> {/* Unique key for each category div */}
+    <h1>
+      <div>{category.category}</div> {/* Display the category name */}
+    </h1>
+    <div className="product-list"> {/* Container for the list of plant cards */}
+      {category.plants.map((plant, plantIndex) => ( // Loop through each plant in the current category
+        <div className="product-card" key={plantIndex}> {/* Unique key for each plant card */}
+          <img 
+            className="product-image" 
+            src={plant.image} // Display the plant image
+            alt={plant.name} // Alt text for accessibility
+          />
+          <div className="product-title">{plant.name}</div> {/* Display plant name */}
+          {/* Display other plant details like description and cost */}
+          <div className="product-description">{plant.description}</div> {/* Display plant description */}
+          <div className="product-cost">${plant.cost}</div> {/* Display plant cost */}
+          <button
+            className="product-button"
+            onClick={() => handleAddToCart(plant)} // Handle adding plant to cart
+          >
+            Add to Cart
+          </button>
+        </div>
+      ))}
+    </div>
+  </div>
+))}
                 </div>
             ) : (
                 <CartItem onContinueShopping={handleContinueShopping} />
@@ -283,5 +309,4 @@ function ProductList({ onHomeClick }) {
         </div>
     );
 }
-
 export default ProductList;

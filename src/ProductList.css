@@ -93,7 +93,7 @@ body {
 }
 
 .product-image {
-    max-width: 100%;
+    max-width: 200px;
     height: 200px; /* Adjust height for better consistency */
 }
 
@@ -185,9 +185,10 @@ body {
     border: 1px solid rgb(5, 4, 4);
     border-left: none;
     border-right: none;
+   
+}
 
     
-}
 /* Add Media Query for responsiveness */
 @media (max-width: 768px) {
     .product-card {
@@ -249,4 +250,5 @@ body {
       .ul div {
         text-align: center; /* Align text to the center */
       }
+  
   }
